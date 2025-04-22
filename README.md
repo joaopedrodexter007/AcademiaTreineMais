@@ -5,9 +5,9 @@ Sistema criado pelo curso de programador de sistemas, Senac Araguaina, na turma 
 
 Este sistema e voltado para uma academia pequena, para realiazar  :
 - a organização de horários e funcionamento da academia,
-- aescala dos personal treiners,
+- a escala dos personal treiners,
 - as lista de alunos matriculados,
--   os planos de assinatura disponíveis,
+- os planos de assinatura disponíveis,
 - a estruturação de lista de treino para os alunos acessarem. 
 
 ## Requisitos 
